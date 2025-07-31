@@ -1,6 +1,8 @@
 # portfolio
 이다영 | Lee Da Young | BackEnd Developer
+
 하루하루의 꾸준한 힘을 믿는 신입 백엔드 개발자 이다영입니다!
+
 
 CafeConnect - 미완성될 뻔한 프로젝트를 끝까지 끌고간 경험
 
